@@ -1,2 +1,2 @@
 # projeto_edutech_PR
-Meu primeiro trabalho.
+Meu primeiro Projeto.
